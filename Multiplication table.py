@@ -5,3 +5,4 @@ while i <=10:
     multiple= num*i
     i+=1
     print(multiple)
+print("thankyou")
