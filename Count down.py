@@ -3,4 +3,5 @@ num=int(input("Enter the no of count down:"))
 while num > 0 :
     print(num)
     num=num-1
-print("go!")
+print("go!") 
+print("go!") 
