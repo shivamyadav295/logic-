@@ -1,1 +1,11 @@
-print(name)
+list=[23,4,45,65,34,23,45,3,43,434,4,43,434,2]
+print("Elements of the list are:", list)
+list.sort()
+print("shorting of list:",list)
+list.reverse()
+print(" reverse of list is",list)
+print("Enter a number to inset in list (first enter index then value):")
+inx=int(input())
+value=int(input())
+list.insert(inx,value)
+print("list after inseting an element:",list)
