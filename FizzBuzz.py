@@ -18,4 +18,4 @@ while i<=num:
     else:
         print(i)
     i+=1
-print("Thankyou")
+print("Thankyou got using my code")
