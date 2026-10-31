@@ -30,4 +30,5 @@ if rem in value :
      print("touple after removing element form list :",value)
 else:
     print(rem,"element not found in list.")
+    print("retry")
 
