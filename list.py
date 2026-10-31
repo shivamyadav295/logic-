@@ -20,11 +20,10 @@ value = int(input("Enter value to insert: "))
 my_list.insert(inx, value)
 print("List after inserting an element:", my_list)
 
-remove = int(input("Enter a value present in list to remove: "))
+remove = int(input("Enter a value present in list to remove : "))
 my_list.remove(remove)
 print("List after removing element:", my_list)
 
-pop = int(input("Enter the index to remove the element: "))
-my_list.pop(pop)
+ my_list.pop(pop)
 print(my_list)
 
