@@ -24,6 +24,6 @@ remove = int(input("Enter a value present in list to remove : "))
 my_list.remove(remove)
 print("List after removing element:", my_list)
 
- my_list.pop(pop)
+my_list.pop(pop)
 print(my_list)
 
