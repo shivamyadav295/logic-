@@ -11,8 +11,7 @@ while i < n:
 print("Elements of the list are:", my_list)
 
 my_list.sort()
-print("Sorting of list:", my_list)
-
+print("Sorting of list:", my_list) 
 my_list.reverse()
 print("Reverse of list is:", my_list)
 
@@ -28,3 +27,4 @@ print("List after removing element:", my_list)
 pop = int(input("Enter the index to remove the element: "))
 my_list.pop(pop)
 print(my_list)
+
