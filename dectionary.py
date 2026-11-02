@@ -9,7 +9,7 @@ student2={
     "name":"ayush kumar",
     "course":"BBA",
     "CGPA":8.4,
-    "MARKS":[80,85,82,87,81,90]
+    "MARKS":[80,85,82,87,81,90,92]
 }
 #DICTIONARY  ACCESSING
 
