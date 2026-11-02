@@ -5,9 +5,16 @@ student={
     "CGPA":8.6,
     "MARKS":[78,88,83,85,79,]
 }
+student2={
+    "name":"ayush kumar",
+    "course":"BBA",
+    "CGPA":8.4,
+    "MARKS":[80,85,82,87,81,90]
+}
 #DICTIONARY  ACCESSING
 
 print(" ",student["name"]," ",student["course"]," ",student["CGPA"]," ",student["MARKS"]," ")
+print(" ",student2["name"]," ",student2["course"]," ",student2["CGPA"]," ",student2["MARKS"]," ")
 
 
 # DICTIONARY METHODS
@@ -19,4 +26,5 @@ student.update({"city":"kanpur"})
 student.update({"state":"UP"})
 print(student)
 print(student.pop("CGPA"))
-print(student)
+print(student.get("state"))
+print(student["city"])
