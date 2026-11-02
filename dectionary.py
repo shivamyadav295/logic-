@@ -3,7 +3,7 @@ student={
     "name":"shivam yadav",
     "course" : "BCA",
     "CGPA":8.6,
-    "MARKS":[78,88,83,85,79,90]
+    "MARKS":[78,88,83,85,79,90,95]
 }
 student2={
     "name":"ayush kumar",
